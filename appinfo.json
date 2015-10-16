@@ -122,6 +122,11 @@
         ]
     },
     "shortName": "BUM4Pebble",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
     "uuid": "4521e749-d783-48ca-b4a8-425d2f0a528b",
     "versionCode": 1,
     "versionLabel": "1.0",
